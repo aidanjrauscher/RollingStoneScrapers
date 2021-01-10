@@ -1,0 +1,501 @@
+Rank,Song,Artist(s)
+1,'Like a Rolling Stone',Bob Dylan
+2,'(I Can't Get No) Satisfaction',The Rolling Stones
+3,'Imagine',John Lennon
+4,'What's Going On',Marvin Gaye
+5,'Respect',Aretha Franklin
+6,'Good Vibrations',The Beach Boys
+7,'Johnny B. Goode',Chuck Berry
+8,'Hey Jude',The Beatles
+9,'Smells Like Teen Spirit',Nirvana
+10,'What'd I Say',Ray Charles
+11,'My Generation',The Who
+12,'A Change Is Gonna Come',Sam Cooke
+13,'Yesterday',The Beatles
+14,'Blowin' in the Wind',Bob Dylan
+15,'London Calling',The Clash
+16,'I Want to Hold Your Hand',The Beatles
+17,'Purple Haze',The Jimi Hendrix Experience
+18,'Maybellene',Chuck Berry
+19,'Hound Dog',Elvis Presley
+20,'Let It Be',The Beatles
+21,'Born to Run',Bruce Springsteen
+22,'Be My Baby',The Ronettes
+23,'In My Life',The Beatles
+24,'People Get Ready',The Impressions
+25,'God Only Knows',The Beach Boys
+26,'(Sittin' on) the Dock of the Bay',Otis Redding
+27,'Layla',Derek and the Dominos
+28,'A Day in the Life',The Beatles
+29,'Help!',The Beatles
+30,'I Walk the Line',Johnny Cash
+31,'Stairway to Heaven',Led Zeppelin
+32,'Sympathy for the Devil',The Rolling Stones
+33,'River Deep - Mountain High',Ike and Tina Turner
+34,'You've Lost That Lovin' Feelin'',The Righteous Brothers
+35,'Light My Fire',The Doors
+36,'One',U2
+37,'No Woman,Bob Marley
+38,'Gimme Shelter',The Rolling Stones
+39,'That'll Be the Day',Buddy Holly and the Crickets
+40,'Dancing in the Street',Martha Reeves and the Vandellas
+41,'The Weight',The Band
+42,'Waterloo Sunset',The Kinks
+43,'Tutti-Frutti',Little Richard
+44,'Georgia on My Mind',Ray Charles
+45,'Heartbreak Hotel',Elvis Presley
+46,'Heroes',David Bowie
+47,'All Along the Watchtower',The Jimi Hendrix Experience
+48,'Bridge Over Troubled Water',Simon and Garfunkel
+49,'Hotel California',The Eagles
+50,'The Tracks of My Tears',Smokey Robinson and the Miracles
+51,'The Message',Grandmaster Flash and the Furious Five
+52,'When Doves Cry',Prince
+53,'When a Man Loves a Woman',Percy Sledge
+54,'Louie Louie',The Kingsmen
+55,'Long Tall Sally',Little Richard
+56,'Anarchy in the U.K.',The Sex Pistols
+57,'Whiter Shade of Pale',Procol Harum
+58,'Billie Jean',Michael Jackson
+59,'The Times They Are A-Changin',Bob Dylan
+60,'Let's Stay Together',Al Green
+61,'Whole Lotta Shakin' Going On',Jerry Lee Lewis
+62,'Bo Diddley',Bo Diddley
+63,'For What It's Worth',Buffalo Springfield
+64,'She Loves You',The Beatles
+65,'Sunshine of Your Love',Cream
+66,'Redemption Song',Bob Marley and the Wailers
+67,'Jailhouse Rock',Elvis Presley
+68,'Tangled Up in Blue',Bob Dylan
+69,'Crying',Roy Orbison
+70,'Walk On By',Dionne Warwick
+71,'Papa's Got A Brand New Bag',James Brown
+72,'California Girls',The Beach Boys
+73,'Superstition',Stevie Wonder
+74,'Summertime Blues',Eddie Cochran
+75,'Whole Lotta Love',Led Zeppelin
+76,'Strawberry Fields Forever',The Beatles
+77,'Mystery Train',Elvis Presley
+78,'I Got You (I Feel Good)',James Brown
+79,'Mr. Tambourine Man',The Byrds
+80,'You Really Got Me',The Kinks
+81,'I Heard It Through the Grapevine',Marvin Gaye
+82,'Blueberry Hill',Fats Domino
+83,'Norwegian Wood (This Bird Has Flown)',The Beatles
+84,'Every Breath You Take',The Police
+85,'Crazy',Patsy Cline
+86,'Thunder Road',Bruce Springsteen
+87,'Ring of Fire',Johnny Cash
+88,'My Girl',The Temptations
+89,'California Dreamin'',The Mamas and the Papas
+90,'In the Still of the Night',The Five Satins
+91,'Suspicious Minds',Elvis Presley
+92,'Blitzkrieg Bop',Ramones
+93,'I Still Haven't Found What I'm Looking For',U2
+94,'Good Golly,Little Richard
+95,'Blue Suede Shoes',Carl Perkins
+96,'Great Balls of Fire',Jerry Lee Lewis
+97,'Roll Over Beethoven',Chuck Berry
+98,'Love and Happiness',Al Green
+99,'Fortunate Son',Creedence Clearwater Revival
+100,'Crazy',Gnarls Barkley
+101,'You Can't Always Get What You Want',The Rolling Stones
+102,'Voodoo Child (Slight Return)',The Jimi Hendrix Experience
+103,'Be-Bop-A-Lula',Gene Vincent and His Blue Caps
+104,'Hot Stuff',Donna Summer
+105,'Living for the City',Stevie Wonder
+106,'The Boxer',Simon and Garfunkel
+107,'Mr. Tambourine Man',Bob Dylan
+108,'Not Fade Away',Buddy Holly and the Crickets
+109,'Little Red Corvette',Prince
+110,'Brown Eyed Girl',Van Morrison
+111,'I've Been Loving You too Long (to Stop Now)',Otis Redding
+112,'I'm So Lonesome I Could Cry',Hank Williams
+113,'That's All Right',Elvis Presley
+114,'Up on the Roof',The Drifters
+115,'You Send Me',Sam Cooke
+116,'Honky Tonk Women',The Rolling Stones
+117,'Take Me to the River',Al Green
+118,'Crazy in Love',Beyonce feat. Jay-Z
+119,'Shout (Parts 1 and 2)',The Isley Brothers
+120,'Go Your Own Way',Fleetwood Mac
+121,'I Want You Back',The Jackson 5
+122,'Stand By Me',Ben E. King
+123,'The House of the Rising Sun',The Animals
+124,'It's A Man's Man's Man's World',James Brown
+125,'Jumpin' Jack Flash',The Rolling Stones
+126,'Will You Love Me Tomorrow',The Shirelles
+127,'Shake,Big Joe Turner
+128,'Changes',David Bowie
+129,'Rock & Roll Music',Chuck Berry
+130,'Born to Be Wild',Steppenwolf
+131,'Maggie May',Rod Stewart
+132,'With or Without You',U2
+133,'Who Do You Love?',Bo Diddley
+134,'Won't Get Fooled Again',The Who
+135,'In the Midnight Hour',Wilson Pickett
+136,'While My Guitar Gently Weeps',The Beatles
+137,'Your Song',Elton John
+138,'Eleanor Rigby',The Beatles
+139,'Family Affair',Sly and the Family Stone
+140,'I Saw Her Standing There',The Beatles
+141,'Kashmir',Led Zeppelin
+142,'All I Have to Do Is Dream',The Everly Brothers
+143,'Please,James Brown and His Famous Flames
+144,'Purple Rain',Prince and the Revolution
+145,'I Wanna Be Sedated',Ramones
+146,'Everyday People',Sly and the Family Stone
+147,'Rock Lobster',The B-52's
+148,'Me and Bobby McGee',Janis Joplin
+149,'Lust for Life',Iggy Pop
+150,'Cathy's Clown',The Everly Brothers
+151,'Eight Miles High',The Byrds
+152,'Earth Angel',The Penguins
+153,'Foxey Lady',The Jimi Hendrix Experience
+154,'A Hard Day's Night',The Beatles
+155,'Rave On',Buddy Holly and the Crickets
+156,'Proud Mary',Creedence Clearwater Revival
+157,'The Sounds of Silence',Simon and Garfunkel
+158,'I Only Have Eyes for You',The Flamingos
+159,'(We're Gonna) Rock Around the Clock',Bill Haley and His Comets
+160,'Moment of Surrender',U2
+161,'I'm Waiting for the Man',The Velvet Underground
+162,'Bring the Noise',Public Enemy
+163,'Folsom Prison Blues',Johnny Cash
+164,'I Can't Stop Loving You',Ray Charles
+165,'Nothing Compares 2 U',Sinead O'Connor
+166,'Bohemian Rhapsody',Queen
+167,'Fast Car',Tracy Chapman
+168,'Let's Get It On',Marvin Gaye
+169,'Papa Was a Rollin' Stone',The Temptations
+170,'Losing My Religion',R.E.M.
+171,'Both Sides Now',Joni Mitchell
+172,'99 Problems',Jay-Z
+173,'Dream On',Aerosmith
+174,'Dancing Queen',Abba
+175,'God Save the Queen',The Sex Pistols
+176,'Paint it Black',The Rolling Stones
+177,'I Fought the Law',The Bobby Fuller Four
+178,'Don't Worry Baby',The Beach Boys
+179,'Free Fallin'',Tom Petty
+180,'September Gurls',Big Star
+181,'Love Will Tear Us Apart',Joy Division
+182,'Hey Ya!',OutKast
+183,'Green Onions',Booker T. and the MG's
+184,'Save the Last Dance for Me',The Drifters
+185,'The Thrill is Gone',B.B. King
+186,'Please Please Me',The Beatles
+187,'Desolation Row',Bob Dylan
+188,'Who'll Stop the Rain',Creedence Clearwater Revival
+189,'I Never Loved a Man (the Way I Love You)',Aretha Franklin
+190,'Back in Black',AC/DC
+191,'Stayin' Alive',Bee Gees
+192,'Knockin' on Heaven's Door',Bob Dylan
+193,'Free Bird',Lynyrd Skynyrd
+194,'Rehab',Amy Winehouse
+195,'Wichita Lineman',Glen Campbell
+196,'There Goes My Baby',The Drifters
+197,'Peggy Sue',Buddy Holly
+198,'Sweet Child O'Mine',Guns n' Roses
+199,'Maybe',The Chantels
+200,'Don't Be Cruel',Elvis Presley
+201,'Hey Joe',The Jimi Hendrix Experience
+202,'Flash Light',Parliament
+203,'Loser',Beck
+204,'Bizarre Love Triangle',New Order
+205,'Come Together',The Beatles
+206,'Positively 4th Street',Bob Dylan
+207,'Try a Little Tenderness',Otis Redding
+208,'Lean on Me',Bill Withers
+209,'Reach Out,The Four Tops
+210,'Bye Bye Love',The Everly Brothers
+211,'Gloria',Them
+212,'In My Room',The Beach Boys
+213,'96 Tears',? and the Mysterians
+214,'Caroline,The Beach Boys
+215,'1999',Prince
+216,'Rockin' in the Free World',Neil Young
+217,'Your Cheatin' Heart',Hank Williams
+218,'Do You Believe in Magic',The Lovin' Spoonful
+219,'Jolene',Dolly Parton
+220,'Boom Boom',John Lee Hooker
+221,'Spoonful',Howlin' Wolf
+222,'Walk Away Renee',The Left Banke
+223,'Walk on the Wild Side',Lou Reed
+224,'Oh,Roy Orbison
+225,'Dance to the Music',Sly and the Family Stone
+226,'Hoochie Coochie Man',Muddy Waters
+227,'Fire and Rain',James Taylor
+228,'Should I Stay or Should I Go',The Clash
+229,'Good Times',Chic
+230,'Mannish Boy',Muddy Waters
+231,'Moondance',Van Morrison
+232,'Just Like a Woman',Bob Dylan
+233,'Sexual Healing',Marvin Gaye
+234,'Only the Lonely',Roy Orbison
+235,'We Gotta Get Out of This Place',The Animals
+236,'Paper Planes',M.I.A.
+237,'I'll Feel a Whole Lot Better',The Byrds
+238,'Everyday',Buddy Holly and the Crickets
+239,'I Got a Woman',Ray Charles
+240,'Planet Rock',Afrika Bambaataa and the Soul Sonic Force
+241,'I Fall to Pieces',Patsy Cline
+242,'Son of a Preacher Man',Dusty Springfield
+243,'The Wanderer',Dion
+244,'Stand!',Sly and the Family Stone
+245,'Rocket Man',Elton John
+246,'Love Shack',The B-52's
+247,'Gimme Some Lovin'',The Spencer Davis Group
+248,'(Your Love Keeps Lifting Me) Higher and Higher',Jackie Wilson
+249,'The Night They Drove Old Dixie Down',The Band
+250,'Hot Fun in the Summertime',Sly and the Family Stone
+251,'Rapper's Delight',Sugarhill Gang
+252,'Chain of Fools',Aretha Franklin
+253,'Paranoid',Black Sabbath
+254,'Money Honey',The Drifters
+255,'Mack the Knife',Bobby Darin
+256,'All the Young Dudes',Mott the Hoople
+257,'Paranoid Android',Radiohead
+258,'Highway to Hell',AC/DC
+259,'Heart of Glass',Blondie
+260,'Mississippi',Bob Dylan
+261,'Wild Thing',The Troggs
+262,'I Can See For Miles',The Who
+263,'Oh,The Dells
+264,'Hallelujah',Jeff Buckley
+265,'Higher Ground',Stevie Wonder
+266,'Ooo Baby Baby',Smokey Robinson and The Miracles
+267,'He's A Rebel',The Crystals
+268,'Sail Away',Randy Newman
+269,'Walking in the Rain',The Ronettes
+270,'Tighten Up',Archie Bell and The Drells
+271,'Personality Crisis',New York Dolls
+272,'Sunday Bloody Sunday',U2
+273,'Jesus Walks',Kanye West
+274,'Roadrunner',The Modern Lovers
+275,'He Stopped Loving Her Today',George Jones
+276,'Sloop John B',The Beach Boys
+277,'Sweet Little Sixteen',Chuck Berry
+278,'Something',The Beatles
+279,'Somebody to Love',Jefferson Airplane
+280,'Born in the U.S.A.',Bruce Springsteen
+281,I'll Take You There,The Staple Singers
+282,'Ziggy Stardust',David Bowie
+283,'Pictures of You',The Cure
+284,'Chapel of Love',The Dixie Cups
+285,'Ain't No Sunshine',Bill Withers
+286,'Seven Nation Army',The White Stripes
+287,'You Are the Sunshine of My Life',Stevie Wonder
+288,'Help Me',Joni Mitchell
+289,'Call Me',Blondie
+290,'(What's So Funny About) Peace,Elvis Costello and the Attractions
+291,'Smokestack Lightning',Howlin' Wolf
+292,'Summer Babe (Winter Version)',Pavement
+293,'Walk This Way',Run-DMC
+294,'Money (That's What I Want)',Barrett Strong
+295,'Can't Buy Me Love',The Beatles
+296,'Stan',Eminem feat. Dido
+297,'She's Not There',The Zombies
+298,'Train in Vain',The Clash
+299,'Tired of Being Alone',Al Green
+300,'Black Dog',Led Zeppelin
+301,'Street Fighting Man',The Rolling Stones
+302,'Get Up,Bob Marley and the Wailers
+303,'Heart of Gold',Neil Young
+304,'Sign 'O' The Times',Prince
+305,'One Way or Another',Blondie
+306,'Like A Prayer',Madonna
+307,'One More Time',Daft Punk
+308,'Da Ya Think I'm Sexy?',Rod Stewart
+309,'Blue Eyes Crying in the Rain',Willie Nelson
+310,'Ruby Tuesday',The Rolling Stones
+311,'With a Little Help From My Friends',The Beatles
+312,'Say It Loud - I'm Black and I'm Proud',James Brown
+313,'That's Entertainment',The Jam
+314,'Why Do Fools Fall In Love',Frankie Lymon and The Teenagers
+315,'Lonely Teardrops',Jackie Wilson
+316,'What's Love Got to Do With It',Tina Turner
+317,'Iron Man',Black Sabbath
+318,'Wake Up Little Susie',The Everly Brothers
+319,'In Dreams',Roy Orbison
+320,'I Put a Spell on You',Screamin' Jay Hawkins
+321,'Comfortably Numb',Pink Floyd
+322,'Don't Let Me Be Misunderstood',The Animals
+323,'Alison',Elvis Costello
+324,'Wish You Were Here',Pink Floyd
+325,'Many Rivers to Cross',Jimmy Cliff
+326,'School's Out',Alice Cooper
+327,'Take Me Out',Franz Ferdinand
+328,'Heartbreaker',Led Zeppelin
+329,'Cortez the Killer',Neil Young
+330,'Fight the Power',Public Enemy
+331,'Dancing Barefoot',Patti Smith Group
+332,'Baby Love',The Supremes
+333,'Good Lovin'',The Young Rascals
+334,'Get Up (I Feel Like Being a) Sex Machine',James Brown
+335,'For Your Precious Love',Jerry Butler and The Impressions
+336,'The End',The Doors
+337,Wind and Fire,Earth
+338,'We Will Rock You',Queen
+339,'I Can't Make You Love Me',Bonnie Raitt
+340,'Subterranean Homesick Blues',Bob Dylan
+341,'Spirit in the Sky',Norman Greenbaum
+342,'Sweet Jane',The Velvet Underground
+343,'Wild Horses',The Rolling Stones
+344,'Beat It',Michael Jackson
+345,'Beautiful Day',U2
+346,'Walk This Way',Aerosmith
+347,'Maybe I'm Amazed',Paul McCartney
+348,'You Keep Me Hanging On',The Supremes
+349,'Baba O'Riley',The Who
+350,'The Harder They Come',Jimmy Cliff
+351,'Runaround Sue',Dion
+352,'Jim Dandy',Lavern Baker
+353,'Piece of My Heart',Big Brother and the Holding Company
+354,'La Bamba',Ritchie Valens
+355,'California Love',Dr. Dre and 2Pac
+356,'Candle in the Wind',Elton John
+357,'That Lady (Part 1 and 2)',The Isley Brothers
+358,'Spanish Harlem',Ben E. King
+359,'The Loco-Motion',Little Eva
+360,'The Great Pretender',The Platters
+361,'All Shook Up',Elvis Presley
+362,'Tears in Heaven',Eric Clapton
+363,'Watching the Detectives',Elvis Costello
+364,'Bad Moon Rising',Creedence Clearwater Revival
+365,'Sweet Dreams (Are Made of This)',Eurythmics
+366,'Little Wing',The Jimi Hendrix Experience
+367,'Nowhere to Run',Martha and the Vandellas
+368,'Got My Mojo Working',Muddy Waters
+369,'Killing Me Softly With His Song',Roberta Flack
+370,'All You Need is Love',The Beatles
+371,'Complete Control',The Clash
+372,'The Letter',The Box Tops
+373,'Highway 61 Revisited',Bob Dylan
+374,'Unchained Melody',The Righteous Brothers
+375,'How Deep Is Your Love',Bee Gees
+376,'White Room',Cream
+377,'Personal Jesus',Depeche Mode
+378,'I'm a Man',Bo Diddley
+379,'The Wind Cries Mary',The Jimi Hendrix Experience
+380,'I Can't Explain',The Who
+381,'Marquee Moon',Television
+382,'Wonderful World',Sam Cooke
+383,'Brown Eyed Handsome Man',Chuck Berry
+384,'Another Brick in the Wall Part 2',Pink Floyd
+385,'Fake Plastic Trees',Radiohead
+386,'Maps',Yeah Yeah Yeahs
+387,'Hit the Road Jack',Ray Charles
+388,'Pride (In the Name of Love)',U2
+389,'Radio Free Europe',R.E.M.
+390,'Goodbye Yellow Brick Road',Elton John
+391,'Tell It Like It Is',Aaron Neville
+392,'Bitter Sweet Symphony',The Verve
+393,'Whipping Post',The Allman Brothers Band
+394,'Ticket to Ride',The Beatles
+395,Stills,Crosby
+396,'Know You Got Soul',Eric B. and Rakim
+397,'Tiny Dancer',Elton John
+398,'Roxanne',The Police
+399,'Just My Imagination',The Temptations
+400,'Baby I Need Your Loving',The Four Tops
+401,'Summer in the City',The Lovin' Spoonful
+402,'O-o-h Child',The Five Stairsteps
+403,'Can't Help Falling in Love',Elvis Presley
+404,'Remember (Walkin' in the Sand)',The Shangri-Las
+405,'(Don't Fear) the Reaper',Blue Öyster Cult
+406,'Thirteen',Big Star
+407,'Sweet Home Alabama',Lynyrd Skynyrd
+408,'Enter Sandman',Metallica
+409,'Tonight's the Night',The Shirelles
+410,'Thank You (Falettinme Be Mice Elf Agin)',Sly and the Family Stone
+411,'C'mon Everybody',Eddie Cochran
+412,'Umbrella',Rihanna Featuring Jay-Z
+413,'Visions of Johanna',Bob Dylan
+414,'We've Only Just Begun',Carpenters
+415,'In Bloom',Nirvana
+416,'Sweet Emotion',Aerosmith
+417,'Monkey Gone to Heaven',Pixies
+418,'I Feel Love',Donna Summer
+419,'Ode to Billie Joe',Bobbie Gentry
+420,'The Girl Can't Help It',Little Richard
+421,'Young Blood',The Coasters
+422,'Can't Help Myself',The Four Tops
+423,'The Boys of Summer',Don Henley
+424,'Juicy',The Notorious B.I.G.
+425,'Fuck tha Police',N.W.A
+426,Stills and Nash,Crosby
+427,'Nuthin' But a 'G' Thang',Dr. Dre
+428,'It's Your Thing',The Isley Brothers
+429,'Piano Man',Billy Joel
+430,'Blue Suede Shoes',Elvis Presley
+431,'William,The Smiths
+432,'American Idiot',Green Day
+433,'Tumbling Dice',Rolling Stones
+434,'Smoke on the Water',Deep Purple
+435,'New Year's Day',U2
+436,'Everybody Needs Somebody to Love',Solomon Burke
+437,'(White Man) In Hammersmith Palais',The Clash
+438,'Ain't It a Shame',Fats Domino
+439,'Midnight Train to Georgia',Gladys Knight and the Pips
+440,'Ramble On',Led Zeppelin
+441,'Mustang Sally',Wilson Pickett
+442,'Alone Again Or',Love
+443,'Beast of Burden',The Rolling Stones
+444,'Love Me Tender',Elvis Presley
+445,'I Wanna Be Your Dog',The Stooges
+446,'Push It',Salt 'n Pepa
+447,'Pink Houses',John Cougar Mellencamp
+448,'In Da Club',50 Cent
+449,'Come Go With Me',The Dell-Vikings
+450,'I Shot the Sheriff',Bob Marley and the Wailers
+451,'I Got You Babe',Sonny and Cher
+452,'Come As You Are',Nirvana
+453,'Pressure Drop',Toots and the Maytals
+454,'Leader of the Pack',The Shangri-Las
+455,'Heroin',The Velvet Underground
+456,'Penny Lane',The Beatles
+457,'The Twist',Chubby Checker
+458,'Cupid',Sam Cooke
+459,'Paradise City',Guns N' Roses
+460,'My Sweet Lord',George Harrison
+461,'Sheena Is a Punk Rocker',Ramones
+462,'All Apologies',Nirvana
+463,'Soul Man',Sam and Dave
+464,'Kiss',Prince and the Revolution
+465,'Rollin' Stone',Muddy Waters
+466,'Get Ur Freak On',Missy Elliott
+467,'Big Pimpin'',Jay-Z Featuring UGK
+468,'Respect Yourself',The Staple Singers
+469,'Rain',The Beatles
+470,'Standing in the Shadows of Love',The Four Tops
+471,'Surrender',Cheap Trick
+472,'Runaway',Del Shannon
+473,'Welcome to the Jungle',Guns N' Roses
+474,'Into the Mystic',Van Morrison
+475,'Where Did Our Love Go',The Supremes
+476,'Do Right Woman — Do Right Man',Aretha Franklin
+477,'How Soon Is Now?',The Smiths
+478,'Last Nite',The Strokes
+479,'I Want to Know What Love Is',Foreigner
+480,'Sabotage',Beastie Boys
+481,'Super Freak',Rick James
+482,'Since U Been Gone',Kelly Clarkson
+483,'White Rabbit',Jefferson Airplane
+484,'Cry Me a River',Justin Timberlake
+485,'Lady Marmalade',LaBelle
+486,'Young Americans',David Bowie
+487,'I'm Eighteen',Alice Cooper
+488,'Just Like Heaven',The Cure
+489,'Under the Boardwalk',The Drifters
+490,'Clocks',Coldplay
+491,'I Love Rock 'N Roll',Joan Jett and the Blackhearts
+492,'I Will Survive',Gloria Gaynor
+493,'Time to Pretend',MGMT
+494,'Ignition (Remix)',R. Kelly
+495,'Brown Sugar',The Rolling Stones
+496,'Running on Empty',Jackson Browne
+497,'The Rising',Bruce Springsteen
+498,'Miss You',The Rolling Stones
+499,'Buddy Holly',Weezer
+500,'Shop Around',Smokey Robinson and the Miracles
